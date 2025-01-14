@@ -56,4 +56,4 @@ Dự án này thực hiện việc **thu thập**, **làm sạch**, và **phân 
 
 ---
 
-✨ **Thanks for watching!** ✨
+✨ **Thanks for reading!** ✨
